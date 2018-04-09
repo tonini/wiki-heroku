@@ -151,3 +151,8 @@ externalLogging:
   papertrail: false
   rollbar: false
   sentry: false
+  
+theme:
+  primary: is-cyan
+  alt: is-cyan
+  footer: is-blue-grey
